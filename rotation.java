@@ -10,7 +10,6 @@ class rotation extends JFrame implements MouseListener
 	
 	rotation(){
 		super("rotateLine");
-		setTitle("DDA");
 		setSize(800,800);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);
